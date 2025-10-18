@@ -476,7 +476,7 @@ number:
     name: LVGL screen timeout
     optimistic: true
     unit_of_measurement: "m"
-    initial_value: 10
+    initial_value: -1
     restore_value: true
     min_value: -1
     max_value: 720
